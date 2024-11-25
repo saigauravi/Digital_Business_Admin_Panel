@@ -8,7 +8,7 @@ The Digital Business Admin Panel is a comprehensive web application designed to 
 
 - **Dashboard**: Overview of key metrics and performance indicators with dynamic data fetching.
 
-![alt text]()
+![alt text](https://github.com/saigauravi/Digital_Business_Admin_Panel/blob/e87caa2a05b5d1eaaf4c2748abb03148fbda1fe1/Digital_Business_Admin-Panel/assetsforReadme/Dashboard%20.png))
 
 
 - **Calendar**: Interactive calendar for event management using FullCalendar.
@@ -17,11 +17,12 @@ The Digital Business Admin Panel is a comprehensive web application designed to 
 
 
 - **Kanban Board**: Task management system with drag-and-drop functionality.
-![alt text]()
+![alt text](https://github.com/saigauravi/Digital_Business_Admin_Panel/blob/e87caa2a05b5d1eaaf4c2748abb03148fbda1fe1/Digital_Business_Admin-Panel/assetsforReadme/TrelloBoard.png)
 
 
 - **Data Grid**: Display of user data in a customizable table with MaterialReactTable. 
-![alt text]()
+![alt text](https://github.com/saigauravi/Digital_Business_Admin_Panel/blob/e87caa2a05b5d1eaaf4c2748abb03148fbda1fe1/Digital_Business_Admin-Panel/assetsforReadme/Datagrid.png
+)
 
 
 
