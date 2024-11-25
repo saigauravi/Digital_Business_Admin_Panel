@@ -13,7 +13,7 @@ The Digital Business Admin Panel is a comprehensive web application designed to 
 
 - **Calendar**: Interactive calendar for event management using FullCalendar.
 
-![alt text]()
+![alt text](https://github.com/saigauravi/Digital_Business_Admin_Panel/blob/c61cb431501edcbf77fe593da072286c1c7847fb/Digital_Business_Admin-Panel/assetsforReadme/Calendar%20.png)
 
 
 - **Kanban Board**: Task management system with drag-and-drop functionality.
