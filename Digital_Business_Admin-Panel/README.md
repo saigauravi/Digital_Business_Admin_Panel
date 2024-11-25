@@ -8,16 +8,20 @@ The Digital Business Admin Panel is a comprehensive web application designed to 
 
 - **Dashboard**: Overview of key metrics and performance indicators with dynamic data fetching.
 
+![alt text]()
 
 
 - **Calendar**: Interactive calendar for event management using FullCalendar.
 
+![alt text]()
+
 
 - **Kanban Board**: Task management system with drag-and-drop functionality.
+![alt text]()
 
 
-- **Data Grid**: Display of user data in a customizable table with MaterialReactTable.
-
+- **Data Grid**: Display of user data in a customizable table with MaterialReactTable. 
+![alt text]()
 
 
 
